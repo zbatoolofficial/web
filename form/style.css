@@ -1,0 +1,46 @@
+
+.liover:hover{
+    color: 	#ffc107;
+    cursor: pointer; 
+    
+}
+.lihover:hover{
+   color:#ffc107;
+    cursor: pointer;
+     border-bottom:3px solid #ffc107;
+}
+.bhover:hover{
+    
+    box-shadow: 3px 3px 5px rgb(190, 191, 194);
+    opacity:50;
+}
+.tst-spacer.tst-spacer-only-bottom-space {
+    margin-top: 0;
+   
+}
+.tst-spacer {
+    height: 0;
+   
+    border-bottom: dotted 4px rgba(26,47,51,.7);
+    opacity: .3;
+}
+.tst-spacer2 {
+    height: 0;
+
+
+    border-bottom: dotted 4px rgba(234, 239, 240, 0.7);
+    
+}
+.nav-item a{
+    color: aliceblue;
+  
+}
+/* .col-md-4 p{
+    color: grey;
+}
+.card-title,h1{
+    font-size: 60px;
+}
+.card{
+    height: fit-content;
+} */
